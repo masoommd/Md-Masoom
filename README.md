@@ -1,4 +1,4 @@
-# Md Masoom (Full Stack Wen Developer)
+# Md Masoom 
 <div align="center">
 
 # Welcome to my GitHub page!
