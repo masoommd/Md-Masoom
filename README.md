@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-  <img src="https://github.com/Rashid-123/Rashid-123/blob/main/hello_world.jpg?raw=true" width="800px">
+  <img src="https://github.com/masoommd/Md-Masoom/blob/b1f01240af4e2612475e9f517b51f9a2db3a483f/masoom-banner.png">
 </p>
 
 <div align="center">
