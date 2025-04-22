@@ -4,6 +4,9 @@
 # Welcome to my Github page!
 
 </div>
+<p align="center">
+  <img src="https://github.com/Rashid-123/Rashid-123/blob/main/hello_world.jpg?raw=true" width="800px">
+</p>
 
 <div align="center">
  
