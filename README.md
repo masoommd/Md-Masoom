@@ -1,7 +1,7 @@
-# Md-Masoom
+# Md Masoom (Full Stack Wen Developer)
 <div align="center">
 
-# Welcome to my Github page!
+# Welcome to my GitHub page!
 
 </div>
 <p align="center">
@@ -95,13 +95,13 @@ LeetCode. Thrive in collaborative environments and enjoy solving complex technic
 
 ### 📌 Projects : 
 
-#### 1. [Mystery Message](https://mystrymessage-plum.vercel.app/) - [GitHub Repo](https://github.com/masoommd/mystrymessage.git)
+#### 1. [Mystery Message](https://mystrymessage-plum.vercel.app/) - [GitHub](https://github.com/masoommd/mystrymessage.git)
 Built a Next.js-based web app, Mystery Message, with a clean UI using Tailwind CSS and TypeScript. Implemented authentication with NextAuth.js and form validation with React Hook Form and Zod. Integrated Google AI for message suggestions. Used MongoDB for storage and enabled password reset and account verification features.
 
-#### 2. [Wanderlust](https://wanderlust-cloning-of-airbnb.onrender.com/listings) - [GitHub Repo](https://github.com/masoommd/Wanderlust-Cloning-of-Airbnb-)
+#### 2. [Wanderlust](https://wanderlust-cloning-of-airbnb.onrender.com/listings) - [GitHub](https://github.com/masoommd/Wanderlust-Cloning-of-Airbnb-)
 A comprehensive web application similar to Airbnb, using MongoDB for data storage, Express.js and Node.js for server-side development, and various libraries for authentication, image management, mapping, etc.
 
-#### 3. [Bloog](http://bloog-weld.vercel.app/) - [GitHub Repo](https://github.com/masoommd/Bloog-A-blog-App)
+#### 3. [Bloog](http://bloog-weld.vercel.app/) - [GitHub](https://github.com/masoommd/Bloog-A-blog-App)
 React blog app with a sleek UI using Tailwind CSS. Smooth navigation with React Router and Redux. Integrated Appwrite for database, storage, and auth. Used React Parser for HTML parsing and React Hook Form for form handling.
 
 #### 4. [Job Spark](https://jobportal-2wks.onrender.com/) - [GitHub](https://github.com/masoommd/jobportal.git)
