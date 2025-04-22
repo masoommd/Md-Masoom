@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-  ![banner](https://github.com/masoommd/Md-Masoom/blob/b1f01240af4e2612475e9f517b51f9a2db3a483f/masoom-banner.png)
+  [![banner](https://github.com/masoommd/Md-Masoom/blob/b1f01240af4e2612475e9f517b51f9a2db3a483f/masoom-banner.png)
 </p>
 
 <div align="center">
